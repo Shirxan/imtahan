@@ -1,0 +1,85 @@
+#one p{
+    font-size: 15px;
+line-height: 35px;
+color: #008aff;
+font-weight: 300;
+font-family: "Josefin Sans";
+margin-left: 173px;
+}
+.container-fluid{
+    background-color: #ecf6fe;
+    position: relative;
+}
+#two{
+    position: absolute;
+    right: 185px;
+
+}
+.container{
+    max-width: 1170px;
+}
+/* header{
+    background-image: url(../img/IMAGE.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+body{
+    background-image: url(../img/IMAGE.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#text{
+    font-size: 33px;
+color: #008aff;
+font-weight: 300;
+font-family: "Josefin Sans";
+position: absolute;
+top: 135px;
+}
+#first{
+    position: relative;
+}
+#first img{
+    position: absolute;
+    top: 11px;
+
+}
+#first ul{
+    padding-top: 20px;
+}
+#non{
+    background-color: #ffe824;
+}
+#lorem h1{
+    font-size: 68px;
+color: #13287e;
+font-weight: 400;
+font-family: "Josefin Sans";
+position: absolute;
+top: 193px;
+left: 185px;
+}
+#lorem p{
+    width: 675px;
+height: 34px;
+font-size: 20px;
+line-height: 35px;
+color: #474747;
+font-weight: 300;
+font-family: "Josefin Sans";
+position: absolute;
+top: 300px;
+}
+#lorem button{
+    width: 200px;
+    position: absolute;
+    top: 400px;
+    border-radius: 20px;
+    background-color: #ffe824;
+    padding: 15px;
+    border: none;
+    font-size: 14px;
+color: #474747;
+font-weight: 400;
+font-family: "Josefin Sans";
+}
